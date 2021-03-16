@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this assignment you are to produce a detailed outline of the Introduction section of your thesis proposal. You are  welcome to use a template below as a model for your outline. 
+In this assignment you are to produce a detailed outline of the Introduction section of your thesis proposal. You are  welcome to use a template below as a model for your outline.
 
 ### Chapter Outline Template
 

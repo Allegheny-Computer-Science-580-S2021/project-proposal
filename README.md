@@ -3,9 +3,9 @@
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains starter files for the proposal project in CMPSC 580 for the Spring 2021 semester.
 
-
 ## Instructions
-Please see assignment sheet
+
+Please see assignment sheet.
 
 ## GitHub and Markdown
 
