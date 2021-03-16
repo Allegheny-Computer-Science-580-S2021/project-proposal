@@ -1,7 +1,7 @@
 # Basic workflow that:
 # --> lints the markdown in the README file and all other Markdown files
-# --> builds the PDF of all of the slides
-# --> release the PDF of all of the slides
+# --> builds the PDF of all of the proposal
+# --> release the PDF of all of the proposal
 name: release
 
 on:

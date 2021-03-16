@@ -1,6 +1,6 @@
 .PHONY: main clean FORCE
 
-main: src/SeniorThesisProposal.pdf
+main: SeniorThesisProposal.pdf
 
 %.pdf: FORCE
 	latexmk -pdflatex='lualatex -interaction nonstopmode --shell-escape' -pdf $(patsubst %.pdf,%.tex,$@)
