@@ -5,6 +5,7 @@ repository contains starter files for the proposal project in CMPSC 580 for the 
 
 GitHub Actions CI will initiate the markdown linting, building of the source code. Additionally, when the last commit is associated with a [Git Tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) a PDF of the source code will be automatically released. The released PDF file will be available for download in the listing of the "Releases" for this repository. To tag your commit, you can run `git tag` command, after your `git commit` command, for example as `git tag senior_thesis_proposal-obonhamcarter-1.0.0` and then push using the following command: `git push -u origin main --tags`. All release numbers in this repository must adhere to the [Semantic Versioning standard](https://semver.org/).
 
+
 ## Instructions
 
 Please see assignment sheet.
