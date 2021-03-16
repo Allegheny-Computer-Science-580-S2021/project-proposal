@@ -3,7 +3,7 @@
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains starter files for the proposal project in CMPSC 580 for the Spring 2021 semester.
 
-GitHub Actions CI will initiate the markdown linting, building of the source code and the automatic release of a PDF of the source code whenever the last commit is associated with a [Git Tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging). If your commit is tagged, then a PDF file will be available for download in the listing of the "Releases" tab for this repository. To tag your commit, you can run `git tag` command, after your `git commit` command, for example as `git tag senior_thesis_proposal-obonhamcarter-1.0.0`. All release numbers in this repository must adhere to the [Semantic Versioning standard](https://semver.org/).
+GitHub Actions CI will initiate the markdown linting, building of the source code and the automatic release of a PDF of the source code whenever the last commit is associated with a [Git Tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging). If your commit is tagged, then a PDF file will be available for download in the listing of the "Releases" tab for this repository. To tag your commit, you can run `git tag` command, after your `git commit` command, for example as `git tag senior_thesis_proposal-obonhamcarter-1.0.0` and then push using the following command: `git push -u origin main --tags`. All release numbers in this repository must adhere to the [Semantic Versioning standard](https://semver.org/).
 
 ## Instructions
 
