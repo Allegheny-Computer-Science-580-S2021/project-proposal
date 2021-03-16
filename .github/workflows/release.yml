@@ -37,10 +37,10 @@ jobs:
       # Build the proposal with the Makefile
       - name: Build the proposal
         run: make
-      # Release a PDF of the slides
+      # Release a PDF of the proposal
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          files: SeniorThesis.pdf
+          files: SeniorThesisProposal.pdf
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
